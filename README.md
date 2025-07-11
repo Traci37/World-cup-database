@@ -9,9 +9,7 @@
 3. [Getting Started](#getting-started)
 4. [Project Tasks](#project-tasks)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+   
 
 ## Introduction
 
