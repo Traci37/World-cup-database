@@ -43,7 +43,13 @@ The World Cup Database project focuses on managing and analyzing data from the f
 3. Querying
 
    Implement SQL queries to extract useful statistics from the database, such as:
-   *
+   * Total number of goals in all games from winning teams
+   * Average number of goals in all games from winning team
+   * Number of games where the winning team scored more than two goals.
+   * Most goals scored in a single game by one team.
+
+ ## Usage
+ To use the project, run the Bash script to import data into the PostgreSQL database. After the data is imported, you can execute SQL queries to analyze the game statistics.
 
 
    
